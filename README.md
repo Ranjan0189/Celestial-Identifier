@@ -6,4 +6,4 @@ A Prolog prototype expert system for identifying celestial objects
 2. `-? consult(celestial_id) .`
 3. Answer the questions asked
 4. `-? summary .`
-5. `cleanup .`
+5. `-? cleanup .`
