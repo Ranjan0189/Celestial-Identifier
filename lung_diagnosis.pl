@@ -2,18 +2,7 @@
 % lung_diagnosis.pl
 %
 % This is a simple program that does lung disease diagnosis.
-%
-% Authors: @ Vincent Mosoti <vincent@vmosoti.com>
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-notice:-
-write('This is an Example of an Expert System for Diagnosing some Lung Diseases'),nl,
-write('Copyright (C) 2013'),nl,
-write('No rights reserved, use it as you wish!'),nl,
-nl,
-write('To use it, just answer the quizes the systems asks you.'),nl,
-nl.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 %hypothesises
