@@ -1,4 +1,5 @@
 /*******************************************************************************
+ This is only for learning purpose, for understanding the basic concept of SWI-Prolog. 
  A celestial object identifier. You see something in the night sky and aren't
  sure what it is. You take some measurements and readings. But what could they
  mean? Tell this system your observations to find out what the object could be!
